@@ -1,0 +1,4 @@
+I meet a great challenge in my study so I need a software to help me to learing in high efficency. Could be a software to collect user's learning data and analyze it to give advice in user's learning life, it also can collect mistakes the user used to make and let user be easier to develop his study. 
+Our company is facing an attack of low sales, so we need to make a new plan to make it return normal. We need a software to get the what customers most want to buy and design a new kind of product to meet their needs.
+Our study in physical is very smoothly but too many thins need to caculate and that is really cost a lot of time. Our need is a software to using formula easily and get the result.
+To deal with too much data, our work to collect student grades is quit heavy. We need to get a software can make data more clear and get their gpa. It should be also get the changes of students in different terms to monitor their study.
